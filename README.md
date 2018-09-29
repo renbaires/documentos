@@ -1,0 +1,3 @@
+# Documentos
+
+Logos, código de conducta, guía de funcionamiento, etc...
