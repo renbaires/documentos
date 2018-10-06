@@ -1,4 +1,4 @@
-#Código de conducta
+# Código de conducta
 
 La comunidad de R en Buenos Aires (RenBaires), incluyendo sus representantes deben conocer y seguir este Código de Conducta (basado en el Código de Conducta de R Community) que es establecido con la finalidad de alentar al crecimiento de esta comunidad, participando en un ambiente amigable, partiendo de la base del respeto mutuo.
 
